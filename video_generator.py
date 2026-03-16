@@ -26,7 +26,7 @@ load_dotenv()
 WIDTH, HEIGHT = 1080, 1920
 FPS = 30
 ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY")
-ELEVENLABS_VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "EXAVITQu4vr4xnSDxMaL")  # Sarah (default)
+ELEVENLABS_VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "pNInz6obpgDQGcFmaJgB")  # Adam (default)
 
 # Paleta de colores
 BG_DARK      = (10, 10, 30)
